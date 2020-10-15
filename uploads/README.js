@@ -1,0 +1,6 @@
+/*
+
+
+In this folder are the images saved with the orphanages
+
+*/
