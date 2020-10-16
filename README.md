@@ -3,7 +3,8 @@
   <strong>This is just the back-end of Happy App</strong>
 </h4>
 
-### [ACCESS FRONT-END 🎭](https://github.com/gabriellopes00/HappY)
+### [ACCESS FRONT-END 🎭](https://github.com/gabriellopes00/Happy)
+### [ACCESS FRONT-END 📱](https://github.com/gabriellopes00/Happy-Mobile)
 
 ## About 📚
 This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀](https://rocketseat.com.br/)).
@@ -25,7 +26,8 @@ This application was developed to celebrate children's day, thinking of those wh
 ## Building 🛠
 
 ### Layout ✒
-WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy))
+WEB 🌐 [LAYOUT WEB](https://www.figma.com/file/UDI5ggRsYaymyDHGpGCx9V/Happy-Web-(Copy)) <br>
+MOBILE 🌐 [LAYOUT MOBILE](https://www.figma.com/file/KmihvBO6eW3jftLK3WaF5a/Happy-Mobile-(Copy)?node-id=0%3A1)
 
 ### Get Started ⚙
 You'll need [Node.js](https://nodejs.org) and  [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer in order to build this app.
