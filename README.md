@@ -4,7 +4,7 @@
 </h4>
 
 ### [ACCESS FRONT-END 🎭](https://github.com/gabriellopes00/Happy)
-### [ACCESS FRONT-END 📱](https://github.com/gabriellopes00/Happy-Mobile)
+### [ACCESS MOBILE 📱](https://github.com/gabriellopes00/Happy-Mobile)
 
 ## About 📚
 This is an app developed on Next Level Week 3 (event created by [Rocketseat 🚀](https://rocketseat.com.br/)).
